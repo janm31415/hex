@@ -2,4 +2,4 @@
 
 Very simple hex editor.
 
-Build with CMake
+Build with CMake.
